@@ -2,8 +2,7 @@
 
 ForgeTax 的 MelonLoader Mod — 内置修改模组，按 **F1**（或 **Insert**）打开。
 
-![menu screenshot](pic/1.png)
-![menu screenshot](pic/2.png)
+![menu screenshot](1.png)
 
 ## 安装方法
 
@@ -94,6 +93,6 @@ dotnet build ModSource/ForgeTaxCheatMod.csproj -c Release
 ---
 
 **作者**: Mizuof  
-**GitHub**: https://github.com/Mizuof
+**Web**: [https://github.com/Mizuof](https://www.mizu7.top/archives/thankyou)
 
 *本修改器完全免费，请勿用于商业用途。*
